@@ -20,7 +20,6 @@
 #  - Add package uploads to bintray for deployment
 #  - Add support for a native os add-on package install file (.deb, .rpm, .apk ...)
 #  - Add support for Raspberry Pi, Android and IMX6
-
 language: cpp
 
 env:
